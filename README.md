@@ -18,5 +18,7 @@ Feature/Task	Team Member
 Login/Registration Form	Muhammad Usman Nazir
 GitHub Repository Management	Muhammad Usman Nazir
 Main Interface (GUI design)	Muhammad Arshad
-Book Details & Backend Integration	Muhammad Arshad
+Book Details & Backend Integration	Muhammad Arshad![WhatsApp Image 2025-05-28 at 21 45 58_59c56fae](https://github.com/user-attachments/assets/2bc6a892-cf22-4910-a863-65d98995be99)
+
 Final Installer & Testing	Both (Upcoming Task)
+![WhatsApp Image 2025-05-28 at 21 45 58_0665069a](https://github.com/user-attachments/assets/deb112f1-5b6b-4b6c-99e2-561c8511fb3f)
